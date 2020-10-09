@@ -602,6 +602,10 @@ numberwang:
   ttl: 1
   type: CNAME
   value: impactdns.techby.org.
+orpheushacks:
+- ttl: 1
+  type: A
+  value: 46.101.185.129
 p2p:
   ttl: 1
   type: CNAME
@@ -873,7 +877,3 @@ zapdos.servers:
 - ttl: 1
   type: A
   value: 45.79.138.244
-orpheushacks:
-- ttl: 1
-  type: CNAME
-  value: 46.101.185.129.
